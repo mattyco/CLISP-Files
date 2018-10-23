@@ -2,6 +2,8 @@ CLISP CODE FOR COMPUTATIONAL INTELLIGENCE LAB NITC 2018
 
 Author Mathew George
 
+All files written in CLISP.
+
 tictactoeminimax.lsp
 
 	Implement the two player game Tic-Tac-Toe Using the Minimax search algorithm with fixed ply look ahead.
